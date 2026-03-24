@@ -1,0 +1,430 @@
+.imgs {
+  background-color: whitesmoke;
+  position: relative;
+}
+
+.div-1 {
+  position: relative;
+}
+
+.shapegreen {
+  position: absolute;
+  top: 2%;
+  left: -10%;
+}
+
+.shapered1 {
+  position: absolute;
+  top: -15%;
+  left: -15%;
+}
+
+.shapered {
+  position: absolute;
+  top: 5%;
+  left: 30%;
+}
+
+.circlered {
+  position: absolute;
+  top: 15%;
+  right: 10%;
+}
+
+.shapegreen1 {
+  position: absolute;
+  bottom: 10%;
+  right: 1%;
+}
+
+.shapegreen2 {
+  position: absolute;
+  right: 0%;
+  top: 25%;
+}
+.shapegreen3
+{
+  position: absolute;
+  bottom: -30%;
+  left: 75%;
+}
+.shapegreen4
+{
+  position: absolute;
+  top: -35%;
+  left: 75%;
+}
+.circleblue
+{
+  position: absolute;
+  bottom: 20%;
+}
+.circlered1
+{
+  position: absolute;
+  top: 0%;
+  left: -20%;
+}
+.shapered2
+{
+  position: absolute;
+  left: -15%;
+  bottom: 5%;
+  right: 50%;
+}
+.shapegreen5
+{
+  position: absolute;
+  left: 80%;
+}
+.shapegreen6
+{
+  position: absolute;
+  left: 80%;
+}
+.shapegreen7
+{
+  position: absolute;
+  left: 70%;
+  top: -15%;
+}
+.shapered3
+{
+  position: absolute;
+  top: 10%;
+  right: 80%;
+}
+.shapered4
+{
+  position: absolute;
+  left: 30%;
+  bottom: 5%;
+}
+.shapegreen8
+{
+  position: absolute;
+  right: 15%;
+}
+.circlered2
+{
+  position: absolute;
+  right: 20%;
+}
+.circlered3
+{
+  position: absolute;
+  right: -30%;
+  top: -20%;
+}
+.wave2
+{
+  position: absolute;
+  bottom: 35%;
+  left: 45%;
+}
+.sbox {
+  position: absolute;
+  border-radius: 10px;
+  bottom: 10%;
+}
+
+.thublogo {
+  margin-left: 1.1%;
+}
+
+.link {
+  margin-left: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.imgb {
+  background-color: whitesmoke;
+  position: relative;
+}
+
+.logos {
+  width: 75px;
+  height: 75px;
+}
+
+.logobar {
+  background: rgb(18, 136, 40);
+  background: linear-gradient(90deg, rgba(18, 136, 40, 1) 30%, rgba(45, 181, 25, 1) 50%, rgba(139, 198, 25, 1) 100%, rgba(2, 36, 0, 1) 100%);
+}
+
+.categorybar {
+  background-color: white;
+}
+
+.bg1 {
+  background-color: rgb(220, 250, 240);
+}
+
+.bg1:hover {
+  background-color: rgb(63, 208, 172);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg2 {
+  background-color: rgba(245, 238, 199, 0.425);
+}
+
+.bg2:hover {
+  background-color: rgb(248, 203, 26);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg3 {
+  background-color: rgba(204, 204, 250, 0.452);
+}
+
+.bg3:hover {
+  background-color: rgb(69, 84, 243);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg4 {
+  background-color: rgba(244, 213, 213, 0.372);
+}
+
+.bg4:hover {
+  background-color: rgb(255, 0, 81);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg5 {
+  background-color: rgba(219, 190, 247, 0.406);
+}
+
+.bg5:hover {
+  background-color: rgb(150, 76, 224);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg6 {
+  background-color: rgba(247, 225, 186, 0.534);
+}
+
+.bg6:hover {
+  background-color: orange;
+  color: white;
+  transition: 0.3s;
+}
+
+.bg7 {
+  background-color: rgb(220, 254, 229);
+}
+
+.bg7:hover {
+  background-color: rgb(5, 187, 54);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg8 {
+  background-color: rgba(247, 225, 186, 0.534)
+}
+
+.bg8:hover {
+  background-color: rgb(231, 49, 161);
+  color: white;
+  transition: 0.3s;
+}
+
+.bg9 {
+  background-color: rgb(223, 250, 250);
+}
+
+.bg9:hover {
+  background-color: rgb(61, 194, 247);
+  color: white;
+  transition: 0.3s;
+}
+
+.tc {
+  height: 15%;
+  width: 15%;
+}
+
+.div-girl {
+  position: relative;
+}
+
+.driveready {
+  position: absolute;
+  bottom: 82%;
+  left: 55%;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 9px 1px rgb(224, 224, 224);
+}
+
+
+.popular {
+  background-color: rgb(244, 255, 254);
+}
+
+.c-text {
+  display: inline;
+  background-color: rgba(0, 122, 47, 0.273);
+}
+
+.week-bar {
+  display: inline;
+  background-color: rgb(255, 181, 43);
+}
+
+.c-pic {
+  position: relative;
+}
+
+.week {
+  position: absolute;
+  left: 50%;
+  bottom: 88%;
+}
+
+.records {
+  background-color: whitesmoke;
+}
+
+.tandc {
+  background-color: white;
+}
+
+.trainee1 {
+  background-color: white;
+  border-radius: 10px;
+}
+
+.thub {
+  position: relative;
+}
+
+.quote {
+  position: absolute;
+  left: 25%;
+  bottom: 0%;
+  color: white;
+  height: 25%;
+  width: 8%;
+  background-color: green;
+  border-radius: 100%;
+  text-align: center;
+  border: 3px solid white;
+}
+
+.contact {
+  background: rgb(16, 101, 32);
+  background: linear-gradient(90deg, rgba(16, 101, 32, 1) 20%, rgba(56, 172, 39, 1) 50%, rgba(139, 198, 25, 1) 100%, rgba(14, 255, 0, 1) 100%);
+  border-radius: 10px;
+}
+
+@media screen and (max-width:766px) {
+
+  .div7-contactdiv {
+    flex-direction: column;
+    width: 90%;
+    justify-content: center;
+  }
+
+  .maildiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left !important;
+  }
+
+  .maildiv {
+    flex-direction: row !important;
+  }
+
+  .calldiv {
+    flex-direction: row !important;
+  }
+}
+
+.content {
+  text-align: end;
+}
+
+.certificate {
+  background-color: rgb(230, 252, 255);
+}
+
+.comp:hover {
+  transform: scale(1.00);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.3s;
+}
+
+.footer {
+  background-color: rgb(245, 250, 255);
+}
+.footer1 {
+  background-color: black;
+}
+.copy-right {
+  background-color: rgba(224, 224, 224, 0.61);
+}
+.copy-right1 {
+  background-color: black;
+}
+span:hover {
+  color: rgb(3, 170, 3);
+}
+
+.course:hover {
+  background-color: green;
+  transform: scale(1.02);
+}
+
+l:hover {
+  color: green;
+}
+.greenpattern
+{
+  position: absolute;
+  top: -20%;
+  left: -20%;
+}
+.greenpattern1
+{
+  position: absolute;
+  top: -20%;
+  left: -20%;
+  opacity: 0.1;
+}
+.contactus
+{
+  position: absolute;
+  left: 15%;
+  top: 50%;
+}
+.shapewave
+{
+  position: absolute;
+  top: 0%;
+  right: 15%;
+}
+.shapegreen9
+{
+  position: absolute;
+  top: 0%;
+  right: 0%;
+}
+.icons
+{
+   display: inline;
+}
+.sm:hover 
+{
+  background-color: green;
+  color: white;
+}
